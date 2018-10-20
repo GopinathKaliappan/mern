@@ -1,6 +1,6 @@
 // config/index.js
-const dbuser = 'vcart';
-const dbpassword = '@6112M2085';
+const dbuser = 'mahdiafzal';
+const dbpassword = '6112m2085';
 
 const MONGODB_URI = `mongodb://${dbuser}:${dbpassword}@ds137483.mlab.com:37483/mearn`;
 
