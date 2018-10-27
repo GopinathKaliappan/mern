@@ -22,13 +22,11 @@ Easily build production ready universal apps (MongoDB/Express/React/Node.js)
 4. Run `npm run start` command, it will run project:
     ```
     $ npm run start
-    cd client
-    $ npm run start
     ```
 
 5. Switch to its directory:
     ```
-    $ cd cliet
+    $ cd client
     ```
 
 6. Run `npm install` command, it will install dependencies:
