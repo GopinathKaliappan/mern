@@ -1,4 +1,4 @@
-# MEARN
+# MERN
 
 Easily build production ready universal apps (MongoDB/Express/React/Node.js)
 
@@ -6,12 +6,12 @@ Easily build production ready universal apps (MongoDB/Express/React/Node.js)
 
 1. Get the sourcecode:
     ```
-    $ git clone https://github.com/mahdiafzal/MEARN.git
+    $ git clone https://github.com/mahdiafzal/mern.git
     ```
 
 2. Switch to its directory:
     ```
-    $ cd MEARN
+    $ cd mern
     ```
 
 3. Run `npm install` command, it will install dependencies:
@@ -19,9 +19,11 @@ Easily build production ready universal apps (MongoDB/Express/React/Node.js)
     $ npm install
     ```
 
-4. Run `npm start` command, it will run project:
+4. Run `npm run start` command, it will run project:
     ```
-    $ npm start sever
+    $ npm run start
+    cd client
+    $ npm run start
     ```
 
 ## Link
