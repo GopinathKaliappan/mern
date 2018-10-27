@@ -1,7 +1,6 @@
-// config/index.js
-const dbuser = 'mahdiafzal';
-const dbpassword = '6112m2085';
+const dbuser = 'abcd';
+const dbpassword = 'abcd12';
 
-const MONGODB_URI = `mongodb://${dbuser}:${dbpassword}@ds137483.mlab.com:37483/mearn`;
+const MONGODB_URI = `mongodb://${dbuser}:${dbpassword}@ds125453.mlab.com:25453/mern-example`;
 
 module.exports = MONGODB_URI;
